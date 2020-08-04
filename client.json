@@ -1,0 +1,8 @@
+{
+  "apiPackage" : "jp.co.confrage.client.api.hoge",
+  "modelPackage" : "jp.co.confrage.client.api.hoge.model",
+  "invokerPackage" : "jp.co.confrage.client.api.hoge.invoker",
+  "artifactId" : "clients",
+  "library" : "resttemplate",
+  "localVariablePrefix": "local_"
+}
